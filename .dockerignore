@@ -1,0 +1,9 @@
+.git
+.playwright-mcp
+node_modules
+vendor
+storage/logs/*.log
+public/build
+.env
+.DS_Store
+npm-debug.log
